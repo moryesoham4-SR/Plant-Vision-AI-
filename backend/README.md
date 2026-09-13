@@ -45,7 +45,10 @@ backend/
 
 ---
 
-## 🏋️ Training Models
+## 🏋️ Training Models & Raw Dataset
+ 
+The 5-crop raw training and validation dataset is hosted on Google Drive:
+- 📦 **Download Raw Dataset:** [1st Raw_Data — Google Drive](https://drive.google.com/drive/folders/1DNKloZnFIVfDDJXRkWbUZYlKbhzZGrET)
 
 To train any crop model using your local dataset:
 

@@ -55,6 +55,13 @@
 - **Data Visualizations:** Plotly Express
 - **Report Generation:** FPDF2
 
+## 🗂️ 5-Crop Raw Dataset & Training Data
+
+The model training and pathology dataset for all 5 crops (Potato, Tomato, Apple, Corn, Grape) is hosted on Google Drive:
+- 📦 **Google Drive Raw Dataset:** [1st Raw_Data — Google Drive](https://drive.google.com/drive/folders/1DNKloZnFIVfDDJXRkWbUZYlKbhzZGrET)
+- 📊 **Crops Included:** Potato, Tomato, Apple, Corn (Maize), Grape
+- 🖼️ **Built-in 1-Click Samples:** Pre-loaded under `static/samples/` for instant web evaluation without requiring manual image uploads.
+
 ---
 
 ## 💻 Local Installation & Setup
