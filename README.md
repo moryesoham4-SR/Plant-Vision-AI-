@@ -1,13 +1,13 @@
 # 🌿 Plant Vision AI — Crop Pathology & Disease Diagnosis System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plant-ditection-ycvcyfawmtyacitg5q3uyq.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plantvisions-ai.streamlit.app/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-brightgreen.svg)](https://www.python.org/)
 
 **Plant Vision AI** is a production-grade Deep Learning web application for plant disease detection and treatment recommendations across **Potato, Tomato, Apple, Corn, and Grape** crops.
 
 🌐 **Live Streamlit Web Application:**  
-👉 **[https://plant-ditection-ycvcyfawmtyacitg5q3uyq.streamlit.app/](https://plant-ditection-ycvcyfawmtyacitg5q3uyq.streamlit.app/)**
+👉 **[https://plantvisions-ai.streamlit.app/](https://plantvisions-ai.streamlit.app/)**
 
 ---
 
@@ -91,7 +91,7 @@ The application can be deployed directly on **Streamlit Community Cloud**:
 - **Repository:** `moryesoham4-SR/Plant-Vision-AI-`
 - **Main Module:** `App.py`
 - **Python Version:** 3.11+
-- **Live URL:** [https://plant-ditection-ycvcyfawmtyacitg5q3uyq.streamlit.app/](https://plant-ditection-ycvcyfawmtyacitg5q3uyq.streamlit.app/)
+- **Live URL:** [https://plantvisions-ai.streamlit.app/](https://plantvisions-ai.streamlit.app/)
 
 ---
 
